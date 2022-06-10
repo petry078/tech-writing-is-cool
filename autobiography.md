@@ -4,7 +4,7 @@
 
 Hello, there! My name is Guilherme M. Petry, I'm a 25 years old journalist, tech writer, and web developer. I'm well involved with information, data, and computers and love it more each day. I also do some carpentry with my dad, just for fun. 
 
-Making things with wood is hard work, you have to feel and respect the materials. Sometimes the wood is just not ready for it and not gonna work well. Understanding this helped me a lot, especially when I feel anxious. It's nice to feel ready, but necessary to respect yourself when needed.
+Making things with wood is hard work, you have to feel and respect the materials. Sometimes the wood is just not ready for it and will not work well. Understanding this helped me a lot, especially when I feel anxious. It's nice to feel ready, but necessary to respect yourself when needed.
 
 I was born in Campo Grande - Mato Grosso do Sul. I come from a scientific family. My parents are both academic researchers and teachers. My father is a chemist and my mother teaches mathematics. Well, not anymore, she retired a few years ago. My sister is a chemical engineer, she followed the family career and studies the same thing as my father, renewable energy.
 
