@@ -26,7 +26,7 @@ To do it, access your Real-Time Manager account, and click on **Personal Tokens*
 
 Hover your mouse over the Personal Token you want to delete and click on the **thrash can** icon.
 
-A verification pop-up will appear. Type **delete** to confirm, and click on the **Delete*8 button.
+A verification pop-up will appear. Type **delete** to confirm, and click on the **Delete** button.
 
 You will see a deletion message after that.
 
