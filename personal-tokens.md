@@ -2,7 +2,7 @@
 
 Personal Tokens are authentication methods that allow you to use Azion Real-Time Manager commands through the command-line interface (CLI).
 
-To configure a personal token, you need an Azion Real-Time Manager account. [Create one here.](https://manager.azion.com/signup){:target="_blank"}
+To configure a personal token, you need an Azion Real-Time Manager account. [Create one here.](https://manager.azion.com/signup)
 
 Login into your account and click on **Personal Tokens** from the **Account** menu, in the top right corner.
 
@@ -31,4 +31,4 @@ A verification pop-up will appear. Type **delete** to confirm, and click on the 
 You will see a deletion message after that.
 
 ---------------------------------------
-Didn’t find what you were looking for? [Open a support ticket.](https://tickets.azion.com/en/support/login){:target="_blank"}
+Didn’t find what you were looking for? [Open a support ticket.](https://tickets.azion.com/en/support/login)
